@@ -1,8 +1,6 @@
 body{
   background-color: black;
   font-family: Calibri;
-}
-p{
   color: #5e5c56;
 }
 h1,h2,h3{
@@ -16,20 +14,19 @@ a:hover{
 }
 table{
   width: 250px;
-  border: 1px;
+  border: 1px solid;
   border-color: #a64626;
-  background-color: #222222
+  background-color: #222222;
+  border-collapse: collapse;
 }
 ul{
-  border-radius: 0%;
-    color: #5e5c56;
-}
-li{
-    color: #5e5c56;
+  list-style-type: square;;
 }
 ol{
   list-style-type: lower-greek;
-    color: #5e5c56;
+}
+dt{
+  color: #a64626;
 }
 video{
   width: 800px;
