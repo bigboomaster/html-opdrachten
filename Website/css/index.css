@@ -24,7 +24,7 @@ header {
 
 header h1 {
     float: right;
-    margin-right: 32%;
+    margin-right: 39%;
     margin-top: 0.5%;
     color: white;
     font-size: 38pt;
@@ -123,7 +123,7 @@ header h1 {
 }
 
 .carousel {
-    margin-top: 25px;
+    margin-top: 0px;
     width: 100%;
     height: 400px;
     background-color: red;
@@ -180,13 +180,13 @@ header h1 {
 
 .img {
     background-color: #f9f9f9;
-    width: 300px;
-    height: 200px;
+    width: 250px;
+    height: 150px;
     float: right;
-    margin: 60px 120px 0 0;
+    margin: 60px 9% 0 0;
     padding: 130px 0 0 40px;
     border-radius: 20%;
-    border-style: outset;
+    border-style: inset;
     color: black;
 }
 
@@ -196,6 +196,10 @@ header h1 {
     font-size: 26pt;
     text-align: center;
     margin-right: 50px;
+}
+
+#image4{
+  margin-bottom: 100px;
 }
 
 #image1:hover {
@@ -241,23 +245,33 @@ footer {
 }
 
 .f1 {
-    position: absolute;
-    top: 185%;
+    position: fixed;
+    bottom: 0;
 }
 
 .f2 {
-    position: absolute;
-    top: 127%;
+  position: fixed;
+  bottom: 0;
 }
 
 .f3 {
-    position: absolute;
-    top: 91.6%;
+  position: fixed;
+  bottom: 0;
 }
 
 .f4{
-    position: absolute;
-    top: 170%;
+  position: fixed;
+  bottom: 0;
+}
+
+.f5{
+  position: fixed;
+  bottom: 0;
+}
+
+.f6{
+  position: fixed;
+  bottom: 0;
 }
 
 footer p {
@@ -337,7 +351,7 @@ margin: 1% 0 2% 38%;
 
 .stuff1 {
     margin: 25px 0 10px 33%;
-    width: 40%;
+    width: 600px;
     height: 300px;
     border-radius: 5%;
     background-color: red;
@@ -421,7 +435,7 @@ margin: 1% 0 2% 38%;
 }
 
 #first-btn{
-    margin-left: 16.5%;
+    margin-left: 13.5%;
 }
 
 .maat button:hover {
@@ -459,7 +473,7 @@ margin: 1% 0 2% 38%;
 
 .stuff2 {
     margin: 25px 0 10px 33%;
-    width: 39%;
+    width: 600px;
     height: 300px;
     border-radius: 5%;
     background-color: red;
@@ -528,7 +542,7 @@ margin: 1% 0 2% 38%;
 
 .stuff3 {
     margin: 25px 0 10px 33%;
-    width: 39%;
+    width: 600px;
     height: 300px;
     border-radius: 5%;
     background-color: red;
@@ -613,4 +627,85 @@ margin: 1% 0 2% 38%;
 
 .card p{
     margin-top: 3%;
+}
+
+/*Contact.html*/
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #30ad63;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #25854c;
+}
+
+.Contact {
+  margin: 20px 0 113px 100px;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  width: 80%;
+}
+textarea{
+  height: 200px;
+}
+
+.h1Contact{
+  margin: auto;
+  text-align: center;
+  margin: 20px 0 5px 0;;
+}
+
+/* contact-gegevens */
+
+#contact-logo{
+  width: 350px;
+  height: 350px;
+  border-radius: 20%;
+  float: left;
+  margin: 3% 0 0 7.5%;
+}
+
+iframe{
+  width: 500px;
+  height: 400px;
+  border-radius: 8%;
+  float: none;
+  position: absolute;
+  top: 73%;
+  left: 3%;
+}
+
+.knowledge{
+  width: 30%;
+  float: right;
+  position: absolute;
+  top: 30%;
+  right: 10%;
+}
+
+.knowledge a{
+  text-decoration: none;
+  color: black;
+}
+
+.knowledge a:hover{
+  font-size: 102%;
+  text-decoration: underline;
 }
