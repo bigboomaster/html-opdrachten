@@ -7,11 +7,45 @@ body {
     background-color: #f9f9f9;
 }
 
+#body1{
+        background-color: #cc5500;
+}
+
+#body2{
+    background-color: #ccff00;
+}
+
+#body3{
+    background-color:  #4d88ff
+}
+
 .container {
     background-color: #f9f9f9;
     width: 100%;
     height: auto;
 }
+
+.container1{
+    background-color: #cc5500;
+    width: 100%;
+    height: auto;
+    margin-bottom: 300px;
+}
+
+.container2{
+    background-color: #ccff00;
+    width: 100%;
+    height: auto;
+    margin-bottom: 300px;
+}
+
+.container3{
+    background-color:  #4d88ff;
+    width: 100%;
+    height: auto;
+    margin-bottom: 300px;
+}
+
 
 button {
     color: #758F8C;
@@ -292,10 +326,25 @@ footer a:hover {
     text-decoration: underline;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 900px) {
     .leftcolumn, .rightcolumn {
         width: 100%;
         padding: 0;
+    }
+    .dp1{
+        margin-left: 0;
+    }
+    .container{
+        margin-bottom: 100px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    header h1{
+        display: none;
+    }
+    .carousel{
+        display: none;
     }
 }
 
@@ -340,7 +389,8 @@ margin: 1% 0 2% 38%;
 }
 
 .text-about1 {
-    margin: 10px 0 10px 30px;
+    margin: 10px 0 0 30px;
+    margin-bottom: 300px;
     padding-left: 20px;
     width: 600px;
     position: absolute;
@@ -454,18 +504,18 @@ margin: 1% 0 2% 38%;
     vertical-align: top;
     padding: 4px 8px;
     text-align: center;
-    background-color: #30ad63;
+    background-color: #333;
     color: #fff;
-    border-color: #30ad63;
+    border-color: #333;
     padding: 13px;
     font-size: 20px;
     margin-bottom: 2%;
 }
 
 #winkelwagen-button:hover, #verlanglijst-button:hover {
-    background-color: #25854c;
+    background-color: black;
     color: #fff;
-    border-color: #25854c;
+    border-color: black;
     cursor: pointer;
 }
 
@@ -680,6 +730,7 @@ textarea{
   border-radius: 20%;
   float: left;
   margin: 3% 0 0 7.5%;
+  margin-bottom: 40%;
 }
 
 iframe{
@@ -708,4 +759,46 @@ iframe{
 .knowledge a:hover{
   font-size: 102%;
   text-decoration: underline;
+}
+
+.shirts h1{
+    margin-top: 20px;
+}
+
+#push{
+    margin-bottom: 7%;
+}
+
+.more{
+    height: 31%;
+    max-width: 46px;
+    margin-top: 3%;
+    background-color: #333;
+    color: white;
+    font-weight: bold;
+}
+
+.winkelwagen{
+    width: 60%;
+    margin: auto;
+    border-style: groove;
+    border-width: thin;
+    margin-bottom: 10px;
+}
+
+
+
+.artikel-img{
+    height: 22%;
+}
+
+.f-r{
+    float: right;
+    margin-right: 15%;
+    margin-top: 50px;
+}
+
+.outer-winkelwagen h1{
+    margin: 3%;
+    text-align: center;
 }
