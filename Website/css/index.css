@@ -172,43 +172,43 @@ header h1 {
 /*voor safari die speciaal wil zijn*/
 @-webkit-keyframes carousel {
     0% {
-        background: url("https://www.shirtsenzo.nl/AB.Framework/Cms_Data/Rad/Images/Sport-20-2.jpg");
+        background: url("../img/s1.jpg");
     }
 
     25% {
-        background: url("https://www.wilson.com/sites/default/files/1920x400-bg-hero-wilsonx-ball.jpg");
+        background: url("../img/s2.jpg");
     }
 
     50% {
-        background: url("http://www.tunisieturf.com/Files/App_060/Sport/BannerContact.jpg");
+        background: url("../img/s3.jpg");
     }
 
     75% {
-        background: url("http://www.hfpa.co.za/assets/uploads/course-images/Fighting_FITT-banner_image.jpg");
+        background: url("../img/s4.jpg");
     }
     100%{
-        background: url("http://www.kinisifgp.com/wp-content/uploads/2016/07/slider10.jpg")
+        background: url("../img/s5.jpg")
     }
 }
 
 @keyframes carousel {
     0% {
-        background: url("https://www.shirtsenzo.nl/AB.Framework/Cms_Data/Rad/Images/Sport-20-2.jpg");
+        background: url("../img/s1.jpg");
     }
 
     25% {
-        background: url("https://www.wilson.com/sites/default/files/1920x400-bg-hero-wilsonx-ball.jpg");
+        background: url("../img/s2.jpg");
     }
 
     50% {
-        background: url("http://www.tunisieturf.com/Files/App_060/Sport/BannerContact.jpg");
+        background: url("../img/s3.jpg");
     }
 
     75% {
-        background: url("http://www.hfpa.co.za/assets/uploads/course-images/Fighting_FITT-banner_image.jpg");
+        background: url("../img/s4.jpg");
     }
     100%{
-        background: url("http://www.kinisifgp.com/wp-content/uploads/2016/07/slider10.jpg")
+        background: url("../img/s5.jpg")
     }
 }
 
@@ -237,37 +237,37 @@ header h1 {
 }
 
 #image1:hover {
-    background: url("https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=100432218-847__1&recipeName=350");
+    background: url("../img/h1.jpg");
     color: transparent;
     border-color: black;
 }
 
 #image2:hover {
-    background: url("https://content.dare2b.com/DMW418_318/350/DMW418_318_01_bynder_defined_type_model_01.jpg");
+    background: url("../img/h2.jpg");
     color: transparent;
     border-color: black;
 }
 
 #image3:hover {
-    background: url("https://ae01.alicdn.com/kf/HTB16DpbKuuSBuNjSsplq6ze8pXan/Sport-Leggings-Vrouwen-Yoga-Broek-Workout-Fitness-Kleding-Jogging-Running-Broek-Gym-Panty-Stretch-Print-Sportkleding.jpg_350x350.jpg");
+    background: url("../img/h3.jpg");
     color: transparent;
     border-color: black;
 }
 
 #image4:hover {
-    background: url("http://ymcaokc.org/uploads/youth-header.jpg");
+    background: url("../img/h4.jpg");
     color: transparent;
     border-color: black;
 }
 
 #image5:hover {
-    background: url("http://inter.ffaasstt.net/media/catalog/product/cache/2/small_image/350x/17f82f742ffe127f42dca9de82fb58b1/c/i/ci17001.jpg");
+    background: url("../img/h5.jpg");
     color: transparent;
     border-color: black;
 }
 
 #image6:hover {
-    background: url("https://www.boxed-up.co.uk/image/cache/data/xhouse-movers-1-350x350.jpg.pagespeed.ic.ewpcqqK9Px.jpg");
+    background: url("../img/h6.jpg");
     color: transparent;
     border-color: black;
 }
@@ -363,19 +363,19 @@ footer a:hover {
 }
 
 #image-sport1:hover {
-    background: url("https://images-na.ssl-images-amazon.com/images/I/41Kim4RpzpL._SL500_AC_SS350_.jpg");
+    background: url("../img/sd1.jpg");
     color: transparent;
     border-color: black;
 }
 
 #image-sport2:hover {
-    background: url("http://inter.ffaasstt.net/media/catalog/product/cache/2/small_image/350x/17f82f742ffe127f42dca9de82fb58b1/c/i/ci17001.jpg");
+    background: url("../img/sd2.jpg");
     color: transparent;
     border-color: black;
 }
 
 #image-sport3:hover {
-    background: url("https://di.shotfarm.com/img/12006?src=761051.png&sqr=350&fmt=jpg");
+    background: url("../img/sd3.jpg");
     color: transparent;
     border-color: black;
 }
@@ -416,53 +416,53 @@ margin: 1% 0 2% 38%;
 /*voor safari die speciaal wil zijn*/
 @-webkit-keyframes stuff1 {
     0% {
-        background: url("https://images-na.ssl-images-amazon.com/images/I/61oT0J2ipHL._SL1000_.jpg");
+        background: url("../img/st1.jpg");
     }
 
     20% {
-        background: url("https://images-na.ssl-images-amazon.com/images/I/61oT0J2ipHL._SL1000_.jpg");
+        background: url("../img/st1.jpg");
     }
 
     40% {
-        background: url("https://www.e-tennis.gr/media/catalog/product/cache/8/image/1200x/9df78eab33525d08d6e5fb8d27136e95/8/8/887515-365-nike-court-flex-ace-men-s-tennis-shorts-clay-green-black.jpeg");
+        background: url("../img/st2.jpg");
     }
 
     60% {
-        background: url("https://ae01.alicdn.com/kf/HTB1sGrUkUOWBKNjSZKzq6xfWFXaj/New-Badminton-shirts-Men-Women-sports-Tennis-shirts-Male-table-tennis-shirt-Quick-dry-running-shirts.jpg_640x640.jpg");
+        background: url("../img/st3.jpg");
     }
 
     80% {
-        background: url("https://images-na.ssl-images-amazon.com/images/I/71693MXTu7L._UY395_.jpg");
+        background: url("../img/st4.jpg");
     }
 
     100% {
-        background: url("https://images-na.ssl-images-amazon.com/images/I/41i9yXbc6kL._SX466_.jpg");
+        background: url("../img/st5.jpg");
     }
 }
 
 @keyframes stuff1 {
     0% {
-        background: url("https://images-na.ssl-images-amazon.com/images/I/61oT0J2ipHL._SL1000_.jpg");
+        background: url("../img/st1.jpg");
     }
 
     20% {
-        background: url("https://images-na.ssl-images-amazon.com/images/I/61oT0J2ipHL._SL1000_.jpg");
+        background: url("../img/st1.jpg");
     }
 
     40% {
-        background: url("https://www.e-tennis.gr/media/catalog/product/cache/8/image/1200x/9df78eab33525d08d6e5fb8d27136e95/8/8/887515-365-nike-court-flex-ace-men-s-tennis-shorts-clay-green-black.jpeg");
+        background: url("../img/st2.jpg");
     }
 
     60% {
-        background: url("https://ae01.alicdn.com/kf/HTB1sGrUkUOWBKNjSZKzq6xfWFXaj/New-Badminton-shirts-Men-Women-sports-Tennis-shirts-Male-table-tennis-shirt-Quick-dry-running-shirts.jpg_640x640.jpg");
+        background: url("../img/st3.jpg");
     }
 
     80% {
-        background: url("https://images-na.ssl-images-amazon.com/images/I/71693MXTu7L._UY395_.jpg");
+        background: url("../img/st4.jpg");
     }
 
     100% {
-        background: url("https://images-na.ssl-images-amazon.com/images/I/41i9yXbc6kL._SX466_.jpg");
+        background: url("../img/st5.jpg");
     }
 }
 
@@ -538,53 +538,53 @@ margin: 1% 0 2% 38%;
 /*voor safari die speciaal wil zijn*/
 @-webkit-keyframes stuff2 {
     0% {
-        background: url("https://www.lefrees.com/wp-content/uploads/2018/07/b1.jpg");
+        background: url("../img/sst1.jpg");
     }
 
     20% {
-        background: url("https://www.joesjersey.ru/upfile/pladd/Arizona-Wildcats-13-Deandre-Ayton-Navy-College-Basketball-Jersey.jpg");
+        background: url("../img/sst2.jpg");
     }
 
     40% {
-        background: url("https://www.richyrewards.com/wp-content/uploads/dealimages/63796930_l.jpg");
+        background: url("../img/sst3.jpg");
     }
 
     60% {
-        background: url("https://cdn.runrepeat.com/i/adidas/30490/adidas-streetflow-black-black-white-14c5-600.jpg");
+        background: url("../img/sst4.jpg");
     }
 
     80% {
-        background: url("https://i.pinimg.com/736x/62/21/8c/62218c417f503ab4475e042540a222f9--pink-dolphin-crew-socks.jpg");
+        background: url("../img/sst5.jpg");
     }
 
     100% {
-        background: url("https://epicsports.cachefly.net/images/101623/600/wilson-french-terry-knit-headbands.jpg");
+        background: url("../img/sst6.jpg");
     }
 }
 
 @keyframes stuff2 {
     0% {
-        background: url("https://www.lefrees.com/wp-content/uploads/2018/07/b1.jpg");
+        background: url("../img/sst1.jpg");
     }
 
     20% {
-        background: url("https://www.joesjersey.ru/upfile/pladd/Arizona-Wildcats-13-Deandre-Ayton-Navy-College-Basketball-Jersey.jpg");
+        background: url("../img/sst2.jpg");
     }
 
     40% {
-        background: url("https://www.richyrewards.com/wp-content/uploads/dealimages/63796930_l.jpg");
+        background: url("../img/sst3.jpg");
     }
 
     60% {
-        background: url("https://cdn.runrepeat.com/i/adidas/30490/adidas-streetflow-black-black-white-14c5-600.jpg");
+        background: url("../img/sst4.jpg");
     }
 
     80% {
-        background: url("https://i.pinimg.com/736x/62/21/8c/62218c417f503ab4475e042540a222f9--pink-dolphin-crew-socks.jpg");
+        background: url("../img/sst5.jpg");
     }
 
     100% {
-        background: url("https://epicsports.cachefly.net/images/101623/600/wilson-french-terry-knit-headbands.jpg");
+        background: url("../img/sst6.jpg");
     }
 }
 
@@ -607,53 +607,53 @@ margin: 1% 0 2% 38%;
 /*voor safari die speciaal wil zijn*/
 @-webkit-keyframes stuff3 {
     0% {
-        background: url("https://www.sportit.com/ir/94109/f/f/0/600/0/1532098182658/scarpe-calcio-ragazzo-adidas-predator-18-1-fg-team-mode-pack-destra.jpg");
+        background: url("../img/stt1.jpg");
     }
 
     20% {
-        background: url("https://i.vimeocdn.com/video/542299632.webp?mw=600&mh=446");
+        background: url("../img/stt2.jpg");
     }
 
     40% {
-        background: url("https://www.richyrewards.com/wp-content/uploads/2015/07/8414748847795.jpg");
+        background: url("../img/stt3.jpg");
     }
 
     60% {
-        background: url("https://www.richyrewards.com/wp-content/uploads/dealimages/uhl-shorts-blue.jpg");
+        background: url("../img/stt4.jpg");
     }
 
     80% {
-        background: url("https://www.richyrewards.com/wp-content/uploads/dealimages/83802845_l.jpg");
+        background: url("../img/stt5.jpg");
     }
 
     100% {
-        background: url("https://www.unitedsport.ca/media/images/brians_opt1k_set-2.2e16d0ba.fill-600x300.png");
+        background: url("../img/stt6.jpg");
     }
 }
 
 @keyframes stuff3 {
     0% {
-        background: url("https://www.sportit.com/ir/94109/f/f/0/600/0/1532098182658/scarpe-calcio-ragazzo-adidas-predator-18-1-fg-team-mode-pack-destra.jpg");
+        background: url("../img/stt1.jpg");
     }
 
     20% {
-        background: url("https://i.vimeocdn.com/video/542299632.webp?mw=600&mh=446");
+        background: url("../img/stt2.jpg");
     }
 
     40% {
-        background: url("https://www.richyrewards.com/wp-content/uploads/2015/07/8414748847795.jpg");
+        background: url("../img/stt3.jpg");
     }
 
     60% {
-        background: url("https://www.richyrewards.com/wp-content/uploads/dealimages/uhl-shorts-blue.jpg");
+        background: url("../img/stt4.jpg");
     }
 
     80% {
-        background: url("https://www.richyrewards.com/wp-content/uploads/dealimages/83802845_l.jpg");
+        background: url("../img/stt5.jpg");
     }
 
     100% {
-        background: url("https://www.unitedsport.ca/media/images/brians_opt1k_set-2.2e16d0ba.fill-600x300.png");
+        background: url("../img/stt6.jpg");
     }
 }
 
